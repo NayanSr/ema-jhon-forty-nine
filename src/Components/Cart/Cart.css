@@ -1,0 +1,9 @@
+.test {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 4px;
+}
+
+.test small {
+    margin-bottom: 10px;
+}
